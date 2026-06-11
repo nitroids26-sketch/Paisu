@@ -34,7 +34,7 @@ from automation.captcha import download_captcha
 # import automation.tempmail as tempmail
 
 # ==================== CONFIGURATION ====================
-ADMIN_IDS = 1414644190301786116
+ADMIN_IDS = 1406599824089808967
 CONFIG_FILE = "config.json"
 AUTHORIZED_USERS_FILE = "authorized_users.json"
 ACTIVE_SESSIONS_FILE = "active_sessions.json"
@@ -58,7 +58,7 @@ class BotDataManager:
                 "https://discord.com/api/webhooks/1479078904269373461/lcoK2rYkyPdN6DARypzRuJp3HDhz5LgAtq5dhiMchTr7VahEMY1fND2Os93c7gLHTi5k",
                 "bot_enabled": True,
                 "max_concurrent_users": 100,
-                "captcha_channel_id": 1488093676604227685
+                "captcha_channel_id": 1514710920960413827
             })
 
         self.authorized_users = self.load_json(
