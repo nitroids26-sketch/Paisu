@@ -1398,5 +1398,5 @@ async def set_webhook(interaction: discord.Interaction, url: str):
 
 # BOT SETUP
 if __name__ == "__main__":
-    bot.run("MTQ3NjY0ODk3Mzg5MTc5NzIzNg.G2qkXF.-zbmgnhYh2dI-aJM6H4tuH3a8dsXBG8nliO9S4")  # < Current Bot name: wither's pass changer
+    bot.run("YOUR_DISCORD_BOT_TOKEN")  # < Current Bot name: ZYRON PASS CHANGER 
 #                          ^ Replace it With your Password Changer Bot Token ^
